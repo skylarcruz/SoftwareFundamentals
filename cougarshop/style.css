@@ -1,0 +1,42 @@
+.topmenu.menu {
+  padding-left: 50px;
+  padding-right: 50px;
+  box-shadow: none;
+  border: none;
+  background-color: whitesmoke;
+  height: 20px;
+}
+
+.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: white;
+  height: 20px;
+  place-content: center;
+}
+
+.footer {
+  color: white;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: fit-content;
+  box-shadow: none;
+  border: none;
+  background-color: #292929;
+  place-content: center;
+}
+
+.footer.item {
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.footer.copyright {
+  padding-top: 50px;
+}
+
+.footer.divider {
+
+}

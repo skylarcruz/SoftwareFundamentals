@@ -1,0 +1,11 @@
+import './css/resetCal.css';
+import './css/styleCal.css';
+import './calendar.html';
+import './js/modernizr.js';
+import './js/jquery-3.0.0.min.js';
+import './js/main.js';
+import './calendar.js';
+import './partials/_layout.scss';
+import './partials/_mixins.scss';
+import './partials/_variables.scss';
+import './scss/style.scss';
